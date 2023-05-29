@@ -1,2 +1,2 @@
 # Bubble-Sort
-Bubble Sort Odin Projects
+Bubble Sort Odin Project
